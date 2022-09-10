@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nikola, I live in Serbia and study computer science.
+- I am mostly interested in making video games, and for the time being I am working on some of the Minecraft mods, well mostly learning.
+- I love working with Java, C++, C# and so on, these are the main computer languages that I'm studying. 
+- Be free to use any of my codes, if it helps you with something big just give me a shout out.
+- ;)
